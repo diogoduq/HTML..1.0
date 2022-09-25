@@ -1,5 +1,5 @@
 # HTML1.0
-Será utilizado na aula de programação.
+Será utilizado nas aulas de programação.
 
 Fabio Diogo Araujo Rodrigues
 N 07 
