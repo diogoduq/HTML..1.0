@@ -256,4 +256,8 @@ td, th {
     nav {
         position: static;
     }
+
+    .lista-beneficios, .imagem-beneficios {
+        width: 100%;
+    }
 }
